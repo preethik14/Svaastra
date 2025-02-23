@@ -1,1 +1,2 @@
-# Svaastra
+# Svaastra: The Sound of Health
+This project develops an intelligent system to acquire lung sounds, process them with deep learning, and present diagnoses via a teleconsulting app. Using MFCC-based feature engineering and advanced models, it classifies respiratory sounds and diseases like pneumonia and COPD. The app stores patient data, predicts conditions, and connects patients with healthcare providers for timely care.
